@@ -1,2 +1,2 @@
-# holbertonschool-low_level_programming
+# holbertonschool low level programming
 aquintana4538/holbertonschool-low_level_programming
